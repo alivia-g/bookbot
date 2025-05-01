@@ -1,6 +1,6 @@
 # bookbot
 
-Bootbot takes 2 argv in the terminal: `python3 main.py <path to book>`, returns a report of your chosen book in the following format:
+Bootbot takes 2 arguments in the terminal: `python3 main.py <path to book>`, returns a report of your chosen book in the following format:
 
 =========== BOOKBOT ===========<br>
 Analyzing book found at books/your_book_name.txt...<br>
