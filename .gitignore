@@ -1,0 +1,7 @@
+/books
+
+# macOS system file
+.DS_Store
+
+# Python bytecode cache
+__pycache__/
